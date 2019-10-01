@@ -80,7 +80,6 @@ layout: default
 
     <div class="col-md-6">
       <div class="card">
-<<<<<<< HEAD
         <div class="card-header">
           <img src="{{ site.baseurl }}/img/hobart-crossing-luxury-leased-residences-2.jpg">
         </div>
@@ -88,18 +87,6 @@ layout: default
         <p>Opening in December!  (fix copy) Hobart Crossing is located in <a href="https://buildinhobart.com/" target="\_blank" rel="noreferer">Centennial Centre at Hobart</a>, a planned community bringing a luxury presence to the gorgeous countryside just minutes west of Green Bay. </p>
         <div class="card-button-group">
           <a class="card-button" href="{{ site.baseurl }}/gallery">Learn More &raquo; </a>
-=======
-        <h1>Latest News</h1>
-        {% for post in site.posts limit: 1 %}
-        <div class="post">
-          <h2><a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-          {{ post.excerpt }}<!-- weird Jekyll glitch, closing p tag required -->
-          <p class="padding-card-hack2"> </p>
-          <div class="card-button-group">
-            <a class="card-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading &raquo;</a>
-          </div>
-          {% endfor %}
->>>>>>> e581884945551a173ead8f1e0767c112b3da993f
         </div>
       </div>
     </div>
@@ -111,6 +98,7 @@ layout: default
         <h1>Contact Us</h1>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
+          <a class="card-button" href="mailto:hc@alliancewi.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;hc@alliancewi.com</a>
         </div>
       </div>
     </div>

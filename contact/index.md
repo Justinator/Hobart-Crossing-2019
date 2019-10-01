@@ -10,27 +10,7 @@ title: Contact
       <div class="card">
         <h1>Contact Us</h1>
         <p>We welcome your comments, questions and feedback, please contact us today and we'll respond as quickly as we can.</p>
-<<<<<<< HEAD
         <a href="mailto:becky@compasswi.com?subject=A Message from hobartcrossing.com" type="button" class="btn btn-primary navbar-btn">Contact us today</a>
-=======
-        <a href="mailto:leasing@hobartcrossing.com?subject=A Message from hobartcrossing.com" type="button" class="btn btn-primary navbar-btn">Contact us today</a>        
-        <script type="text/javascript">var zq72h8y12juxym;(function(d, t) {
-        var s = d.createElement(t), options = {
-        'userName':'alliancewi',
-        'formHash':'zq72h8y12juxym',
-        'autoResize':true,
-        'height':'1285',
-        'async':true,
-        'host':'wufoo.com',
-        'header':'hide',
-        'ssl':true};
-        s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-        s.onload = s.onreadystatechange = function() {
-        var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-        try { zq72h8y12juxym = new WufooForm();zq72h8y12juxym.initialize(options);zq72h8y12juxym.display(); } catch (e) {}};
-        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-        })(document, 'script');</script>
->>>>>>> e581884945551a173ead8f1e0767c112b3da993f
 
       </div>
 
@@ -47,6 +27,7 @@ title: Contact
         <p>Currently leasing the last apartments in the 1st phase and preleasing units for the 2nd phase for June 2016 occupancy. </p>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
+          <a class="card-button" href="mailto:hc@alliancewi.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;hc@alliancewi.com</a>
         </div>
       </div>
     </div>
