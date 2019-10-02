@@ -19,23 +19,15 @@ layout: default
 <div class="header-image">
 <script src="https://fast.wistia.com/embed/medias/zx6jri3a4x.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_zx6jri3a4x videoFoam=true" style="height:100%;position:relative;width:100%">&nbsp;</div></div></div>
 </div>
-
 <div class="container">
   <div class="row">
     <div class="col-md-12 center-block">
       <div class="card header-card">
         <h1>Welcome Home to Hobart Crossing Luxury Leased Residences!</h1>
-
         <p class="text-center">There’s an exciting place to call home in the greater Green Bay area.</p>
-
-        <div class="playWrap">
-          <img src="{{ site.baseurl }}/img/play-button.jpg" id="videoButton">
-        </div>
-
       </div>
     </div>
   </div>
-
   <div class="row">
     <div class="col-md-6">
       <div class="card">
@@ -86,7 +78,7 @@ layout: default
         <h2>Building Four</h2>
         <p>Opening in December!  (fix copy) Hobart Crossing is located in <a href="https://buildinhobart.com/" target="\_blank" rel="noreferer">Centennial Centre at Hobart</a>, a planned community bringing a luxury presence to the gorgeous countryside just minutes west of Green Bay. </p>
         <div class="card-button-group">
-          <a class="card-button" href="{{ site.baseurl }}/gallery">Learn More &raquo; </a>
+          <a class="card-button" href="{{ site.baseurl }}/apartments/#buildingFour">Learn More &raquo; </a>
         </div>
       </div>
     </div>
@@ -95,12 +87,15 @@ layout: default
   <div class="row">
     <div class="col-md-6 col-md-offset-3">
       <div class="card">
-        <h1>Contact Us</h1>
+        <h3>Contact Us</h3>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
           <a class="card-button" href="mailto:hc@alliancewi.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;hc@alliancewi.com</a>
         </div>
       </div>
     </div>
+  </div>
+  <div class="row">
+    {% include slider.html %}
   </div>
 </div>
