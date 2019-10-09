@@ -73,10 +73,10 @@ layout: default
     <div class="col-md-6">
       <div class="card">
         <div class="card-header">
-          <img src="{{ site.baseurl }}/img/hobart-crossing-luxury-leased-residences-2.jpg">
+          <img src="{{ site.baseurl }}/img/building-four.jpg">
         </div>
         <h2>Building Four</h2>
-        <p>Opening in December!  (fix copy) Hobart Crossing is located in <a href="https://buildinhobart.com/" target="\_blank" rel="noreferer">Centennial Centre at Hobart</a>, a planned community bringing a luxury presence to the gorgeous countryside just minutes west of Green Bay. </p>
+        <p>Opening in December!  The newest (and largest) addition to the Hobart Crossing luxury leased residences will be available December 1, housing one- and two-bedroom units in addition to studios.</p>
         <div class="card-button-group">
           <a class="card-button" href="{{ site.baseurl }}/apartments/#buildingFour">Learn More &raquo; </a>
         </div>
@@ -90,7 +90,7 @@ layout: default
         <h3>Contact Us</h3>
         <div class="card-button-group">
           <div class="card-button"><span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;(920) 461-1900</div>
-          <a class="card-button" href="mailto:hc@alliancewi.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;hc@alliancewi.com</a>
+          <a class="card-button" href="mailto:hobartcrossingapartments@gmail.com"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;Email Us</a>
         </div>
       </div>
     </div>
