@@ -99,7 +99,7 @@ title: Gallery
                 <a href="{{ site.baseurl }}/img/gallery/hobart-crossing-luxury-apartment-bathrooms-4.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/gallery/hobart-crossing-luxury-apartment-bathrooms-4.jpg"></a>
               </div>
               <div class="col-xs-6">
-                <a href="{{ site.baseurl }}/img/gallery/hobart-crossing-luxury-apartment-bathrooms-3.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/gallery/hobart-crossing-luxury-apartment-bathrooms-3.jpg"></a>
+                <a href="{{ site.baseurl }}/img/gallery/hobart-crossing-luxury-apartment-bathrooms-5.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/gallery/hobart-crossing-luxury-apartment-bathrooms-5.jpg"></a>
               </div>
               <div class="col-xs-6">
                 <a href="{{ site.baseurl }}/img/gallery/hobart-crossing-luxury-apartment-bathrooms.jpg" class="thumbnail"><img src="{{ site.baseurl }}/img/gallery/hobart-crossing-luxury-apartment-bathrooms.jpg"></a>

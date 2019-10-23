@@ -65,7 +65,7 @@ title: Amenities
             <p>The Hobart Crossing development also offers:
             <ul>
               <li>Elevators</li>
-              <li>Cat and dog-friendly policies</li>
+              <li>Cat and dog friendly policies</li>
               <li>Underground, heated parking</li>
               <li>On-site storage lockers</li>
               <li>Clubroom with kitchen</li>
@@ -77,7 +77,7 @@ title: Amenities
             <ul>
             <li>Free, reservable clubroom for personal events, birthdays, holidays, etc. </li>
             <li>Hobart Crossing-sponsored free events including holiday parties, cooking classes and game nights</li>
-            <li>Heated underground pool for relaxing, exercising or entertainment</li>
+            <li>Heated in ground pool for relaxing, exercising or entertainment</li>
             <li>24/7 fitness center</li>
             <li>Free, heated underground parking</li>
             <li>Storage closet</li>

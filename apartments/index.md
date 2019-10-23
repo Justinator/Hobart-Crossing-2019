@@ -28,7 +28,7 @@ title: Apartments
             <p>The Hobart Crossing development also offers:</p>
             <ul>
               <li>Elevators</li>
-              <li>Cat and dog-friendly policies</li>
+              <li>Cat and dog friendly policies</li>
               <li>Underground, heated parking</li>
               <li>On-site storage lockers</li>
               <li>Clubroom with kitchen</li>

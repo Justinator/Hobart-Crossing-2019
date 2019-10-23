@@ -38,6 +38,7 @@ title: Contact
       <div class="card">
         <h1>Don't delay—units will fill fast!</h1>
         <p>4930 Founders Terrace<br>
+        Hobart, WI 54155<br>
         <a href="tel:(920) 461-1900">(920) 461-1900</a><br>
         <a href="mailto:hobartcrossingapartments@gmail.com">Email Us</a><br>
         Office hours Monday – Friday, 9am – 3pm<br>
