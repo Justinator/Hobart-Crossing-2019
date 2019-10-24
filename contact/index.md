@@ -25,7 +25,7 @@ title: Contact
               <li>Close to amazing golf at Thornberry Creek, Brown County, Village Green and Oneida Country Club.</li>
             </ul>
             <div class="gallery">
-              <a href="{{ site.baseurl }}/img/area-map.jpg" class="thumbnail"> <img src="{{ site.baseurl }}/img/area-map.jpg"></a>
+              <a href="{{ site.baseurl }}/img/area-map2.jpg" class="thumbnail"> <img src="{{ site.baseurl }}/img/area-map2.jpg"></a>
             </div>
           </div>
         </div>
