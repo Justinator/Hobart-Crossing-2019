@@ -76,7 +76,7 @@ layout: default
           <img src="{{ site.baseurl }}/img/building-four.jpg">
         </div>
         <h2>Building Four</h2>
-        <p>Opening in December!  The newest (and largest) addition to the Hobart Crossing luxury leased residences will be available December 1, housing one- and two-bedroom units in addition to studios.</p>
+        <p>Now open! The newest (and largest) addition to the Hobart Crossing luxury leased residences is available including…one- and two-bedroom units in addition to studios.</p>
         <div class="card-button-group">
           <a class="card-button" href="{{ site.baseurl }}/apartments/#buildingFour">Learn More &raquo; </a>
         </div>
